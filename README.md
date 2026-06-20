@@ -10,7 +10,7 @@ This project analyzes a real-world survey dataset to uncover trends in compensat
 
 ## Data Source
 
-The dataset was collected and shared by Alex The Analyst through a survey of data professionals. It was provided unprocessed, with no cleaning performed beforehand.
+The dataset was collected and shared by Alex The Analyst on Youtube through a survey of data professionals. It was provided unprocessed, with no cleaning performed beforehand.
 
 ## Tools Used
 
@@ -26,7 +26,7 @@ The raw dataset had two major issues that needed to be resolved before analysis.
 
 - Salary satisfaction was the lowest-rated metric in the survey, despite higher pay being the top factor respondents looked for in a new role.
 - The United States accounted for roughly 41% of respondents and reported noticeably higher average salaries than other countries in the dataset.
-- The most common response on breaking into the data field was "neither easy nor difficult" (42.7%), though difficulty-related responses (Difficult or Very Difficult, combined ~32%) outweighed ease-related responses (Easy or Very Easy, combined ~26%).
+- Most respondents found breaking into the data field neither easy nor difficult (42.7%), though slightly more people leaned toward "difficult" than "easy."
 - Python was the most widely used programming language, preferred by nearly two-thirds of respondents.
 
 ## Dashboard Features
