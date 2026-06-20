@@ -2,6 +2,8 @@
 
 A Power BI dashboard built from survey responses collected from 630 data professionals, exploring salary trends, job satisfaction, the difficulty of breaking into the data field, and programming language preferences across roles and countries.
 
+![Dashboard Screenshot](dashboard-screenshot.png)
+
 ## Overview
 
 This project analyzes a real-world survey dataset to uncover trends in compensation, satisfaction, and career accessibility within the data industry. The dataset was provided in raw form and required substantial cleaning before it could be analyzed. Using Power Query, I standardized inconsistent values, converted salary ranges into numerical data, and prepared the dataset for visualization in Power BI. The result is an interactive dashboard covering key metrics across job titles and countries.
@@ -37,11 +39,11 @@ The raw dataset had two major issues that needed to be resolved before analysis.
 - Programming language preference breakdown
 - A single consistent color theme, with one accent color used to highlight the lowest-scoring metric
 
-## Dashboard Preview
-
-![Dashboard Screenshot](dashboard-screenshot.png)
-
 ## Files
 
 - `Data_Survey_Project.pbix` — the Power BI dashboard file
 - `dashboard-screenshot.png` — static preview of the dashboard
+
+---
+
+Connect with me on [LinkedIn](www.linkedin.com/in/aryannair767).
