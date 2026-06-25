@@ -13,7 +13,7 @@ This project analyzes a real-world survey dataset to uncover trends in compensat
 
 ## Data Source
 
-The dataset was collected and shared by Alex The Analyst on Youtube through a survey of data professionals. It was provided unprocessed, with no cleaning performed beforehand.
+The dataset was collected and shared by Alex The Analyst through a survey of data professionals. It was provided unprocessed, with no cleaning performed beforehand.
 
 ## Tools Used
 
