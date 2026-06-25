@@ -1,5 +1,8 @@
 # Data Professional Survey Breakdown
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+---
+
 A Power BI dashboard built from survey responses collected from 630 data professionals, exploring salary trends, job satisfaction, the difficulty of breaking into the data field, and programming language preferences across roles and countries.
 
 ![Dashboard Screenshot](dashboard-screenshot.png)
